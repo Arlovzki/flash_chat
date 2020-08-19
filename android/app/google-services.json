@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895907169709",
+    "firebase_url": "https://flash-chat-82f2b.firebaseio.com",
+    "project_id": "flash-chat-82f2b",
+    "storage_bucket": "flash-chat-82f2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895907169709:android:aeb9a569c16b86772f4d24",
+        "android_client_info": {
+          "package_name": "co.arloubeloria.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895907169709-seq9mtk826n2d1vj5mj5o9e4pvmv22fd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.arloubeloria.flash_chat",
+            "certificate_hash": "c1f3ff09646bb6cb1aecfeed475c15c0f4427765"
+          }
+        },
+        {
+          "client_id": "895907169709-e6m4u3sni8fqrbvomg6r3i4aj1jq7378.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFblSgL26Z0ICaF8iFn-lWWRhIDIs4c78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895907169709-e6m4u3sni8fqrbvomg6r3i4aj1jq7378.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
